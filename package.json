@@ -1,6 +1,6 @@
 {
-  "name": "react",
-  "version": "0.0.0",
+  "name": "@ragingsnail/react-rc-form",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^17.0.0",
